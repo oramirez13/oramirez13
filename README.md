@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @oramirez13
-- 🌱 I’m currently learning Python and Javascript 
+- 👋 Hi, I’m orami
+- 🌱 I’m currently learning Python, Java, C and Javascript
 
 
 <!---
