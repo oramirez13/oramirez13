@@ -1,5 +1,5 @@
 - 👋 Hi, I’m orami
-- 🌱 I’m currently learning Python, Java, C and Javascript
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <!---
