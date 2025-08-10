@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,bsd,js,html,css,c,java,python)](https://skillicons.dev)
 
 
 <!---
