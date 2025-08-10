@@ -1,5 +1,5 @@
-- 👋 Hi, I’m orami
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java)](https://skillicons.dev)
 
 
 <!---
