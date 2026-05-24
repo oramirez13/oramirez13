@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="center">📜 Certifications</h3>
+<h3 align="center">Certifications</h3>
 
 <p align="center">
   <a href="https://www.credly.com/badges/94d069bf-fc9a-4361-b591-4078c290f329/linked_in_profile" target="_blank">
@@ -59,7 +59,7 @@
   </a>
 </p>
 
-<h3 align="center">🗣️ Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
   <code>🇪🇸 Spanish (Native)</code> &nbsp;&nbsp;|&nbsp;&nbsp; 
   <code>🇺🇸 English</code> &nbsp;&nbsp;|&nbsp;&nbsp; 
