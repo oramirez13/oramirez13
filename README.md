@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Information Security Engineering Student</strong><br>
-  Specialized in <em>Pentesting</em> • <em>Secure Web Development</em> • <em>Red Team</em>
 </p>
 
 ###
