@@ -33,22 +33,10 @@
 
 ---
 
-## Tech Stack
-
 <div align="center">
-
-### Operating Systems
-<img src="https://skillicons.dev/icons?i=linux,arch" alt="OS" />
-
-### Programming & Scripting
-<img src="https://skillicons.dev/icons?i=python,c,java,js,bash,powershell" alt="Programming" />
-
-### Web Development & Databases
-<img src="https://skillicons.dev/icons?i=html,css,php,laravel,flask,mysql" alt="Web Dev" />
-
-### Tools & Version Control
-<img src="https://skillicons.dev/icons?i=git" alt="Tools" />
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,arch,powershell,bash,js,html,css,c,java,python,flask,php,laravel,mysql" alt="My Skills" />
+  </a>
 </div>
 
 ---
