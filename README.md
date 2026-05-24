@@ -1,9 +1,5 @@
 <h1 align="center">Pentesting & Secure Web Development</h1>
 
-<p align="center">
-  <strong>Information Security Engineering Student</strong><br>
-</p>
-
 ###
 
 <div align="center">
