@@ -116,8 +116,5 @@ Collection of Python scripts optimized for enumeration, automation, log analysis
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/oramirez13/oramirez13/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake" />
-</div>
 
 ###
