@@ -71,16 +71,6 @@
 
 ---
 
-## Languages
-
-<p align="center">
-  <code>🇪🇸 Spanish (Native)</code> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <code>🇺🇸 English</code> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <code>🇮🇹 Italian</code>
-</p>
-
----
-
 ## GitHub Stats
 
 <div align="center">
