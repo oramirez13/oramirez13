@@ -1,4 +1,4 @@
-<h1 align="center">orami - Pentesting & Secure Development</h1>
+<h1 align="center">orami - Pentesting & Secure Web Development</h1>
 
 <p align="center">
   <strong>Information Security Engineering Student</strong><br>
