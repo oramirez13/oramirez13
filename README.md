@@ -2,15 +2,8 @@
 
 <p align="center">
   <strong>Information Security Engineering Student</strong><br>
+  Specialized in <em>Pentesting</em> • <em>Secure Web Development</em> • <em>Red Team</em>
 </p>
-
-###
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,arch,powershell,bash,js,html,css,c,java,python,flask,php,laravel,mysql" alt="My Skills" />
-  </a>
-</div>
 
 ###
 
@@ -29,9 +22,53 @@
   </a>
 </div>
 
-###
+---
 
-<h3 align="center">Certifications</h3>
+## 👤 About Me
+
+- 🛡️ Information Security student focused on offensive security.
+- 🐧 Linux enthusiast using Arch Linux as primary OS.
+- 💻 Building secure web applications with Flask and Laravel.
+- 🎯 Interested in Pentesting, Red Team operations and Web Security.
+- 🤖 Learning low-level programming and cybersecurity automation.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Operating Systems
+<img src="https://skillicons.dev/icons?i=linux,arch" alt="OS" />
+
+### Programming & Scripting
+<img src="https://skillicons.dev/icons?i=python,c,java,js,bash,powershell" alt="Programming" />
+
+### Web Development & Databases
+<img src="https://skillicons.dev/icons?i=html,css,php,laravel,flask,mysql" alt="Web Dev" />
+
+### Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git" alt="Tools" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 VulnScanner
+Security auditing platform developed with Flask.
+* **Features:** Port scanning, sensitive file detection, authentication system, and security reporting.
+
+### 🔐 Secure Laravel Authentication
+Laravel authentication system following secure software development practices.
+
+### 🐍 Python Security Utilities
+Collection of Python scripts optimized for enumeration, automation, log analysis, and reconnaissance.
+
+---
+
+## 📜 Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/94d069bf-fc9a-4361-b591-4078c290f329/linked_in_profile" target="_blank">
@@ -59,17 +96,28 @@
   </a>
 </p>
 
-<h3 align="center">Languages</h3>
+---
+
+## 🗣️ Languages
+
 <p align="center">
   <code>🇪🇸 Spanish (Native)</code> &nbsp;&nbsp;|&nbsp;&nbsp; 
   <code>🇺🇸 English</code> &nbsp;&nbsp;|&nbsp;&nbsp; 
   <code>🇮🇹 Italian</code>
 </p>
 
-###
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oramirez13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oramirez13/oramirez13/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake" />
 </div>
 
 ###
