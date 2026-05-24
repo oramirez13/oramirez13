@@ -54,20 +54,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 VulnScanner
-Security auditing platform developed with Flask.
-* **Features:** Port scanning, sensitive file detection, authentication system, and security reporting.
-
-### 🔐 Secure Laravel Authentication
-Laravel authentication system following secure software development practices.
-
-### 🐍 Python Security Utilities
-Collection of Python scripts optimized for enumeration, automation, log analysis, and reconnaissance.
-
----
-
 ## 📜 Certifications
 
 <p align="center">
