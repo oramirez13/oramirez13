@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up? I'm orami</h1>
+<h1 align="center">Orami - Pentesting & Secure Development</h1>
 
 <p align="center">
   <strong>Information Security Engineering Student</strong><br>
