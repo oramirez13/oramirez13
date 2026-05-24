@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bsd,powershell,js,html,css,c,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,arch,kali,bsd,powershell,bash,js,html,css,c,java,python,flask,laravel,mysql)](https://skillicons.dev)
 
 
 <!---
