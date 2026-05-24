@@ -24,17 +24,17 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
-- 🛡️ Information Security student focused on offensive security.
-- 🐧 Linux enthusiast using Arch Linux as primary OS.
-- 💻 Building secure web applications with Flask and Laravel.
-- 🎯 Interested in Pentesting, Red Team operations and Web Security.
-- 🤖 Learning low-level programming and cybersecurity automation.
+- Information Security student focused on offensive security.
+- Linux enthusiast using Arch Linux as primary OS.
+- Building secure web applications with Flask and Laravel.
+- Interested in Pentesting, Red Team operations and Web Security.
+- Learning low-level programming and cybersecurity automation.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/94d069bf-fc9a-4361-b591-4078c290f329/linked_in_profile" target="_blank">
@@ -84,7 +84,7 @@
 
 ---
 
-## 🗣️ Languages
+## Languages
 
 <p align="center">
   <code>🇪🇸 Spanish (Native)</code> &nbsp;&nbsp;|&nbsp;&nbsp; 
@@ -94,7 +94,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oramirez13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
