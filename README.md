@@ -11,10 +11,9 @@
 
 ## About Me
 
-- Information Security student focused on offensive security.
+- Information security engineering student focused on offensive security.
 - Linux enthusiast using Arch Linux as primary OS.
 - Building secure web applications with Flask and Laravel.
-- Interested in Pentesting, Red Team operations and Web Security.
 - Learning low-level programming and cybersecurity automation.
 
 ---
