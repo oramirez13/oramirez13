@@ -45,13 +45,6 @@
   <a href="https://www.credly.com/badges/bc7ff9e6-3e77-419d-86cb-d9794d61acd5/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/Linux_II-Credly-006699?style=flat-square&logo=credly&logoColor=white" alt="Linux II" />
   </a>
-  <br>
-  <a href="https://www.linkedin.com/in/orami13/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/Jr_Penetration_Tester-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Jr Penetration Tester" />
-  </a>
-  <a href="https://www.linkedin.com/in/orami13/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/Scrum_Fundamentals-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Scrum Fundamentals" />
-  </a>
 </p>
 
 ---
