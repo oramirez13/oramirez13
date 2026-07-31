@@ -11,10 +11,11 @@
 
 ## About Me
 
-- Infosec engineer (in progress) focused on:
-- Linux.
-- Building secure web applications.
-- Learning low-level programming.
+Infosec engineer (in progress) focused on:
+
+- Linux
+- Building secure web applications
+- Learning low-level programming
 
 ---
 
