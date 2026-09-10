@@ -50,8 +50,4 @@ Infosec engineer (in progress) focused on:
 
 ---
 
-
-<br>
-
-
 ###
