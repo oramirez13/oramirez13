@@ -19,7 +19,7 @@ Infosec engineer (in progress) focused on:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,vim,git,bash,js,html,css,c,java,python,flask,php,laravel,mysql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,c,java,python,js,php,go,mysql,laravel,flask" alt="My Skills" />
   </a>
 </div>
 
