@@ -1,7 +1,5 @@
-<h1 align="center">Secure Web Development</h1>
-
-###
-
+<div align="center">
+  <h1>Secure Web Development</h1>
   <a href="https://tryhackme.com/p/orami" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=990000&logoColor=white&style=for-the-badge" height="25" alt="tryhackme logo" />
   </a>
@@ -50,4 +48,21 @@ Infosec engineer (in progress) focused on:
 
 ---
 
-###
+## Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [about_me](https://github.com/oramirez13/about_me) | Professional profile with cyberpunk terminal aesthetic | HTML5, jQuery, Bootstrap 5 |
+| [FTP-Vuln](https://github.com/oramirez13/FTP-Vuln) | Vulnerable FTP lab in Docker with writeup and step-by-step guide | Docker, vsftpd, Bash |
+| [login_app](https://github.com/oramirez13/login_app) | Login app with intentional vulnerabilities (SQLi, XSS) for security practice | Flask, MySQL, PostgreSQL, SQLite |
+| [meteor_dodge](https://github.com/oramirez13/meteor_dodge) | Survival game with 5 levels, packaging and online leaderboard | Python, Pygame, Laravel |
+| [virtual_store](https://github.com/oramirez13/virtual_store) | Online store with dynamic catalog and session-based cart | PHP 8, MySQL, Bootstrap 5.3 |
+| [interactive_quiz](https://github.com/oramirez13/interactive_quiz) | Web development quiz with categories, timer and real-time score | HTML5, JavaScript, jQuery, Bootstrap 4 |
+
+---
+
+<div align="center">
+  <a href="https://orami.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-orami.netlify.app-1a1a2e?style=for-the-badge" alt="Portfolio" />
+  </a>
+</div>
